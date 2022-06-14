@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/mySelf/JetpackMvvm/app/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/mySelf/JetpackMvvm/app/src/main/res/layout/fragment_demo.xml" value="0.1" />
+        <entry key="..\:/mySelf/JetpackMvvm/app/src/main/res/layout/fragment_download.xml" value="0.1" />
+        <entry key="..\:/mySelf/JetpackMvvm/app/src/main/res/layout/fragment_me.xml" value="0.36614583333333334" />
+        <entry key="..\:/mySelf/JetpackMvvm/app/src/main/res/layout/fragment_pager.xml" value="0.1" />
+        <entry key="..\:/mySelf/JetpackMvvm/app/src/main/res/layout/fragment_test.xml" value="0.1" />
+        <entry key="..\:/mySelf/JetpackMvvm/app/src/main/res/layout/fragment_viewpager.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_error.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_welcome.xml" value="0.22864583333333333" />
+        <entry key="app/src/main/res/layout/banner_itemhome.xml" value="0.22864583333333333" />
+        <entry key="app/src/main/res/layout/fragment_addtodo.xml" value="0.19166666666666668" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.22864583333333333" />
+        <entry key="app/src/main/res/layout/fragment_list.xml" value="0.20677083333333332" />
+        <entry key="app/src/main/res/layout/fragment_main.xml" value="0.22864583333333333" />
+        <entry key="app/src/main/res/layout/fragment_me.xml" value="0.22864583333333333" />
+        <entry key="app/src/main/res/layout/fragment_web.xml" value="0.22864583333333333" />
+        <entry key="app/src/main/res/layout/include_list.xml" value="0.20677083333333332" />
+        <entry key="app/src/main/res/layout/include_recyclerview.xml" value="0.22864583333333333" />
+        <entry key="app/src/main/res/layout/layout_custom_progress_dialog_view.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/layout_empty.xml" value="0.22864583333333333" />
+        <entry key="app/src/main/res/layout/layout_fotter_loadmore.xml" value="0.22864583333333333" />
+        <entry key="app/src/main/res/layout/layout_loading.xml" value="0.22864583333333333" />
+        <entry key="app/src/main/res/menu/home_menu.xml" value="0.22864583333333333" />
+        <entry key="app/src/main/res/menu/menu_navigation.xml" value="0.22864583333333333" />
+        <entry key="app/src/main/res/xml/root_preferences.xml" value="0.22864583333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
